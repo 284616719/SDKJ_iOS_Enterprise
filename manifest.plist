@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://117.50.44.240:8080/fm/download/zcsx.ipa</string>
+					<string>http://vdt.jiuaij.com:8080/download/mobile/download/SDKJ_for_iOS_V3.19.4.7_Enterprise.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://117.50.44.240:8080/fm/download/fullSizeImage.png</string>
+					<string>http://vdt.jiuaij.com:8080/download/mobile/images/btn_ios.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://117.50.44.240:8080/fm/download/displayImage.png</string>
+					<string>http://vdt.jiuaij.com:8080/download/mobile/images/btn_ios.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
